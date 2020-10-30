@@ -1,0 +1,15 @@
+{
+  "name": "ghoststory_tommyna",
+  "version": "1.0.0",
+  "description": "Adventure Ghost Story",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tommy Na",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  }
+}
