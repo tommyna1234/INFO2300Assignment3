@@ -1,4 +1,4 @@
-# INFO2300Assignment3
+# INFO2300Assignment3 (Tommy's Ghost Story)
 
 ## Quick start
 
