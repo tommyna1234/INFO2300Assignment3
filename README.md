@@ -5,10 +5,10 @@
 ### 1. Download this repository
 git clone https://github.com/tommyna1234/INFO2300Assignment3.git
 
-### 2. Install essential
+### 2. Install essential software
 install MS Visual Studio Code and Node.js
 
-### 3. Instal dependencies
+### 3. Install dependencies
 
 Go to the downloaded repository folder open it with Visual Studio Codeand run the following command in terminal:
 ```
