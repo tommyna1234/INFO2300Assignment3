@@ -20,3 +20,4 @@ run the following command in terminal
 node index.js
 ```
 App will be opened in browser at `http://localhost:8080/`
+or directly run it in https://info2300assignment3tommy.herokuapp.com/
